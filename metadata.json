@@ -1,0 +1,6 @@
+{
+  "name": "ZAIQA Food Ordering & Delivery",
+  "description": "ZAIQA Food Ordering & Delivery Management System for restaurant operations, WhatsApp/phone orders, menu control, customer records, and rider dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
